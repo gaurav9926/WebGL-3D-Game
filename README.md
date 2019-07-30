@@ -1,2 +1,7 @@
-# WebGL-3D-Game
-A air fighter like game made in WebGL.
+##My Rendition Of The Game Subway Surfers
+**Movements**: 
+	Left Key 
+	Right Key
+	G- Grayscale
+	H- Return From Grayscale
+
